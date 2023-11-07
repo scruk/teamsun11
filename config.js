@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Em/tui biết mà 🥰. Yêu mọi người nhiều nhiều 😘😘',
     messDesc: 'Như đã nói ở trên thì em/tui nghĩ chúng ta gặp được nhau đã là định mệnh. Tương lai thì không nói trước được nhưng em/tui luôn mong mọi người hãy luôn trao cho nhau những tình cảm, những yêu thương cho nhau như ngày đầu nhé!',
     btnAccept: 'Nhấn vào đây để nhận quà từ em/tui',
-    messLink: 'https://drive.google.com/drive/folders/1aKTyla_rG11DD0adIaZV4ExinLbC6bJ5?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/drive/folders/1aKTyla_rG11DD0adIaZV4ExinLbC6bJ5?usp=sharing' 
 }
